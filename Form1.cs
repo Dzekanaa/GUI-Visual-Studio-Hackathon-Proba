@@ -19,7 +19,7 @@ namespace GUI_Visual_Studio_Hackathon_Proba
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = "Tjt radi";
+            button1.Text = "ilija pedercina virginska";
         }
     }
 }
